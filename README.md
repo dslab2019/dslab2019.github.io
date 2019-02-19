@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Description
 
-You can use the [editor on GitHub](https://github.com/dslab2019/dslab2019.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This hands-on course teaches the tools & methods used by data scientists, from researching solutions to scaling up prototypes to Spark clusters. It exposes the students to the entire data science pipeline, from data acquisition to extracting valuable insights applied to real-world problems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Questions
 
-### Markdown
+Questions and discussions about the course are gathered on mattermost: https://mattermost-dslab.epfl.ch (after we authorize your id)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Lab Sessions
 
-```markdown
-Syntax highlighted code block
+### Week 1 - 21.02.2018 - Module 1 - Python for data scientists 1/4
+- Slides: [week 1](/slides/DSLab_week1.pptx)
+- Python Quick Reference: [notebook](http://nbviewer.jupyter.org/github/justmarkham/python-reference/blob/master/reference.ipynb)
+- Exercises: [download](/notebooks/DSLab_week1_CCPython.ipynb) - [view on github](https://github.com/dslab2019/dslab2019.github.io/blob/master/notebooks/DSLab_week1_CCPython.ipynb)
 
-# Header 1
-## Header 2
-### Header 3
+### Week 2 - 28.02.2018 - Module 1 - Python for data scientists 2/4
 
-- Bulleted
-- List
+### Week 3 - 07.03.2018 - Module 1 - Python for data scientists 3/4
 
-1. Numbered
-2. List
+### Week 4 - 14.03.2018 - Module 1 - Python for data scientists 4/4
 
-**Bold** and _Italic_ and `Code` text
+### Week 5 - 21.03.2018 - Module 2 - Distributed computing with Hadoop 1/2
 
-[Link](url) and ![Image](src)
-```
+### Week 6 - 28.03.2018 - Module 2 - Distributed computing with Hadoop 2/2
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Week 7 - 11.04.2018 - Module 3 - Distributed processing with Apache Spark 1/3
 
-### Jekyll Themes
+### Week 8 - 18.04.2018 - Module 3 - Distributed processing with Apache Spark 2/3
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dslab2019/dslab2019.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Week 9 - 25.04.2018 - Module 3 - Distributed processing with Apache Spark 3/3
 
-### Support or Contact
+### Week 10 - 02.05.2018 - Module 4 - Real-time data acquisition and processing 1/2
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Week 11 - 09.05.2018 - Module 4 - Real-time data acquisition and processing 2/2
+
+### Week 12 - 16.05.2018 - Module 5 - Final Project 1/3
+
+### Week 13 - 23.05.2018 - Module 5 - Final Project 2/3
+
+### Week 14 - 30.05.2018 - Module 5 - Final Project 3/3
