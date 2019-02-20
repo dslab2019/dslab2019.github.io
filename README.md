@@ -9,7 +9,7 @@ Questions and discussions about the course are gathered on mattermost: https://m
 ## Lab Sessions
 
 ### Week 1 - 20.02.2019 - Module 1 - Python for data scientists 1/4
-- Slides: [week 1](/slides/DSLab_week1.pptx)
+- Slides: [week 1](/slides/DSLab2019_week-1.pptx)
 - Python Quick Reference: [notebook](http://nbviewer.jupyter.org/github/justmarkham/python-reference/blob/master/reference.ipynb)
 - Exercises: [download](/notebooks/DSLab_week1_CCPython.ipynb) - [view on github](https://github.com/dslab2019/dslab2019.github.io/blob/master/notebooks/DSLab_week1_CCPython.ipynb)
 
