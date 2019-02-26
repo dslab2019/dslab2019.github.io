@@ -6,6 +6,12 @@ This hands-on course teaches the tools & methods used by data scientists, from r
 
 Questions and discussions about the course are gathered on mattermost: https://mattermost-dslab.epfl.ch (after we authorize your id)
 
+## Final Project
+
+- Slides (Powerpoint): [Final assignment](/slides/DSLab_Final-Project.pptx)
+- Slides (pdf): [Final assignment](/slides/DSLab_Final-Project.pdf)
+- Final assignment: [repository](https://git-dslab.epfl.ch/dslab2019/final_project) - start with the README
+
 ## Lab Sessions
 
 ### Week 1 - 20.02.2019 - Module 1 - Python for data scientists 1/4
