@@ -2,8 +2,6 @@
 
 The final assignment is to be done in **groups of 4 or, preferably, 5**.
 
-If needed, please start by *creating a new group* for the final project.
-
 ## Important dates
 
 The assignment (clear, well-annotated notebook; report-like) is due on **June 14th, 23:59**.
@@ -18,7 +16,7 @@ Imagine you are a regular user of the public transport system, and you are check
 
 2. You could leave now on a different route and arrive just in time for the reunion.
 
-Undoubtedly, if this is the only information available, most of us will opt for 1.
+Undoubtedly, if this is the only information available, most of us will opt for option 1.
 
 If we now tell you that option 1 carries a fifty percent chance of missing a connection and be late for the reunion. Whereas, option 2 is almost guaranteed to take you there on time. Would you still consider option 1?
 
