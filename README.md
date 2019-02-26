@@ -8,9 +8,7 @@ Questions and discussions about the course are gathered on mattermost: https://m
 
 ## Final Project
 
-- Slides (Powerpoint): [Final assignment](/slides/DSLab_Final-Project.pptx)
-- Slides (pdf): [Final assignment](/slides/DSLab_Final-Project.pdf)
-- Final assignment: [repository](https://git-dslab.epfl.ch/dslab2019/final_project) - start with the README
+- Final assignment: [description](/final_project/README.md)
 
 ## Lab Sessions
 
