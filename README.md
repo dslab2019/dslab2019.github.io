@@ -16,7 +16,7 @@ Questions and discussions about the course are gathered on mattermost: [https://
 - Slides (Powerpoint): [week 1](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-1.pptx)
 - Slides (pdf): [week 1](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-1.pdf)
 - Python Quick Reference: [notebook](http://nbviewer.jupyter.org/github/justmarkham/python-reference/blob/master/reference.ipynb)
-- Exercises: [download](/notebooks/DSLab_week1_CCPython.ipynb) - [view on github](https://github.com/dslab2019/dslab2019.github.io/blob/master/notebooks/DSLab_week1_CCPython.ipynb)
+- Exercises: [download](/notebooks/DSLab_week1_CCPython-final.ipynb) - [view on github](https://github.com/dslab2019/dslab2019.github.io/blob/master/notebooks/DSLab_week1_CCPython-final.ipynb)
 
 ### Week 2 - 27.02.2018 - Module 1 - Python for data scientists 2/4
 - Slides (Powerpoint): [week 2](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-2.pptx)
