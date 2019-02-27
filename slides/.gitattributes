@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ad3255c4ccb071db671732c4cc54bc9d54c56327b0fdb389f6d402ec4a4176a1
-size 202
+DSLab2019_week-12.pptx filter=lfs diff=lfs merge=lfs -text
+DSLab2019_week-1.pptx filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
