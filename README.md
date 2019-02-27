@@ -4,7 +4,7 @@ This hands-on course teaches the tools & methods used by data scientists, from r
 
 ## Questions
 
-Questions and discussions about the course are gathered on mattermost: https://mattermost-dslab.epfl.ch (after we authorize your id)
+Questions and discussions about the course are gathered on mattermost: [https://mattermost-dslab.epfl.ch](https://mattermost-dslab.epfl.ch) (after we authorize your id)
 
 ## Final Project
 
