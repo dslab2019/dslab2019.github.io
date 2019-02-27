@@ -19,8 +19,8 @@ Questions and discussions about the course are gathered on mattermost: https://m
 - Exercises: [download](/notebooks/DSLab_week1_CCPython.ipynb) - [view on github](https://github.com/dslab2019/dslab2019.github.io/blob/master/notebooks/DSLab_week1_CCPython.ipynb)
 
 ### Week 2 - 27.02.2018 - Module 1 - Python for data scientists 2/4
-- Slides (Powerpoint): [week 2](/slides/DSLab2019_week2.pptx)
-- Slides (pdf): [week 2](/slides/DSLab2019_week2.pdf)
+- Slides (Powerpoint): [week 2](https://github.com/dslab2019/dslab2019.github.io/blob/master/slides/DSLab2019_week-2.pptx)
+- Slides (pdf): [week 2](https://github.com/dslab2019/dslab2019.github.io/blob/master/slides/DSLab2019_week-2.pdf)
 - Solutions to last week's exercises: [download](/notebooks/DSLab_week1_CCPython-Solution.ipynb) - [view on github](https://github.com/dslab2019/dslab2019.github.io/blob/master/notebooks/DSLab_week1_CCPython-Solution.ipynb)
 - Exercises - Set #1: [download](/notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib.ipynb) - [view on github](https://github.com/dslab2019/dslab2019.github.io/blob/master/notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib.ipynb)
 - Exercises - Set #2: [download](/notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn.ipynb) - [view on github](https://github.com/dslab2019/dslab2019.github.io/blob/master/notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn.ipynb)
