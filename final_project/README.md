@@ -1,4 +1,4 @@
-## DS Lab - Final Assignment: Robust Journey Planning
+## Final Assignment: Robust Journey Planning
 
 The final assignment is to be done in **groups of 4 or, preferably, 5**.
 
