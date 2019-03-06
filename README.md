@@ -29,4 +29,4 @@ Questions and discussions about the course are gathered on mattermost: [https://
 - Slides (Powerpoint): [week 3](./commingsoon.md)
 - Slides (pdf): [week 3](./commingsoon.md)
 - Solutions to last week's exercices: [download](./commingsoon.md) - [view on github](./commingsoon.md)
-- Exercices: [Instructions](.) - [view on github](./commingsoon.md)
+- Exercices: [Instructions](./commingsoon.md) - [view on github](./commingsoon.md)
