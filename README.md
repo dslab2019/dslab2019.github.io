@@ -22,12 +22,12 @@ Questions and discussions about the course are gathered on mattermost: [https://
 - Slides (Powerpoint): [week 2](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-2.pptx)
 - Slides (pdf): [week 2](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-2.pdf)
 - Solutions to last week's exercises: [download](https://github.com/dslab2018/dslab2018.github.io/raw/master/notebooks/DSLab_week1_CCPython-Solution-final.ipynb) - [view on github](https://github.com/dslab2019/dslab2019.github.io/blob/master/notebooks/DSLab_week1_CCPython-Solution-final.ipynb)
-- Exercises - Set #1: [download](https://github.com/dslab2018/dslab2018.github.io/raw/master/notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-final.ipynb) - [view on github](https://github.com/dslab2019/dslab2019.github.io/blob/master/notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-final.ipynb)
-- Exercises - Set #2: [download](https://github.com/dslab2018/dslab2018.github.io/raw/master/notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-final.ipynb) - [view on github](https://github.com/dslab2019/dslab2019.github.io/blob/master/notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-final.ipynb)
+- Exercises - Set #1: [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-final.ipynb) - [view on github](https://github.com/dslab2019/dslab2019.github.io/blob/master/notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-final.ipynb)
+- Exercises - Set #2: [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-final.ipynb) - [view on github](https://github.com/dslab2019/dslab2019.github.io/blob/master/notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-final.ipynb)
 
 ### Week 3 - 06.03.2019 - Module 1 - Collaborating with Git 3/4
 - Slides (Powerpoint): [week 3](./commingsoon.md)
 - Slides (pdf): [week 3](./commingsoon.md)
-- Solutions to last week's exercices - Set #1: [download](https://github.com/dslab2018/dslab2018.github.io/raw/master/notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-Solution.ipynb) - [view on github](./notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-Solution.ipynb)
-- Solutions to last week's exercices - Set #2: [download](https://github.com/dslab2018/dslab2018.github.io/raw/master/notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-Solution.ipynb) - [view on github](./notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-Solution.ipynb)
+- Solutions to last week's exercices - Set #1: [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-Solution.ipynb) - [view on github](./notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-Solution.ipynb)
+- Solutions to last week's exercices - Set #2: [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-Solution.ipynb) - [view on github](./notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-Solution.ipynb)
 - Exercices: [Instructions](./labs/week3/README.md)
