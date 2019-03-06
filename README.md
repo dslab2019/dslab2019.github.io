@@ -28,6 +28,6 @@ Questions and discussions about the course are gathered on mattermost: [https://
 ### Week 3 - 06.03.2019 - Module 1 - Collaborating with Git 3/4
 - Slides (Powerpoint): [week 3](./commingsoon.md)
 - Slides (pdf): [week 3](./commingsoon.md)
-- Solutions to last week's exercices - Set #1: [download](https://github.com/dslab2019/dslab2019.github.io/blob/master/notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-Solution.ipynb) - [view on github](./notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-Solution.ipynb)
-- Solutions to last week's exercices - Set #2: [download](https://github.com/dslab2019/dslab2019.github.io/blob/master/notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-Solution.ipynb) - [view on github](./notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-Solution.ipynb)
+- Solutions to last week's exercices - Set #1: [download](https://raw.githubusercontent.com/dslab2019/dslab2019.github.io/master/notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-Solution.ipynb) - [view on github](./notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-Solution.ipynb)
+- Solutions to last week's exercices - Set #2: [download](https://raw.githubusercontent.com/dslab2019/dslab2019.github.io/master/notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-Solution.ipynb) - [view on github](./notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-Solution.ipynb)
 - Exercices: [Instructions](./labs/week3/README.md) - [view on github](./labs/week3/README.md)
