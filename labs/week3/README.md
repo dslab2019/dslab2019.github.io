@@ -12,7 +12,7 @@ Please note that the accounts are not sync’d with EPFL accounts, so you should
 
 ### 2 - Getting the project stub
 
-Go to <https://git-dslab.epfl.ch/dslab2018/week3-git> and click on 'Fork'.
+Go to <https://git-dslab.epfl.ch/dslab2019/week3-git> and click on 'Fork'.
 
 After setting up an SSH key pair (<https://docs.gitlab.com/ee/gitlab-basics/create-your-ssh-keys.html>),
 you can now clone the project on your machine.
