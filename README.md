@@ -31,3 +31,10 @@ Questions and discussions about the course are gathered on mattermost: [https://
 - Solutions to last week's exercices - Set #1: [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-Solution.ipynb) - [view on github](./notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-Solution.ipynb)
 - Solutions to last week's exercices - Set #2: [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-Solution.ipynb) - [view on github](./notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-Solution.ipynb)
 - Exercices: [Instructions](./labs/week3/README.md)
+
+### Week 4 - 13.03.2019 - Module 1 - Graded homework 1
+- Slides (Powerpoint): [week 4](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-4.pptx)
+- Slides (pdf): [week 4](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-4.pdf)
+- Solutions to last week's exercises: [solutions](./labs/week3/Solutions.md)
+- Homework 1: [Instructions](./labs/week4/README.md)
+
