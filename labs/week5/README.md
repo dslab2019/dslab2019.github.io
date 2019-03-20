@@ -42,7 +42,7 @@ For this series of exercises we will use the Zeppelin notebook. This is yet anot
 
 Open a browser and log in the Zeppelin UI with your EPFL __gaspar__ username and password at [`https://iccluster042.iccluster.epfl.ch:9995/`](https://iccluster042.iccluster.epfl.ch:9995/) .
 
-Once logged in, from your Zeppelin homepage, select the __import note__ option, and copy the URL of this class's [notebook](https://raw.githubusercontent.com/dslab2019/dslab2019.github.io/master/notebooks/DSLab_week5_Hive_Exercises.json) .
+Once logged in, from your Zeppelin homepage, select the __import note__ option, and copy the URL of this class's [notebook](https://raw.githubusercontent.com/dslab2019/dslab2019.github.io/master/notebooks/DSLab_week5_Hive_Exercises.json). We recommend that you use a name of the form __/your-gaspar-username/week5__ for the notebook.
 
 You can now open the notebook in Zeppelin and start working on the exercises. As a bonus you can repeat the same exercises using the __hive__ command in a terminal.
 
