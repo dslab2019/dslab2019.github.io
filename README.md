@@ -38,3 +38,8 @@ Questions and discussions about the course are gathered on mattermost: [https://
 - Solutions to last week's exercises: [solutions](./labs/week3/Solutions.md)
 - Homework 1: [Instructions](./labs/week4/README.md)
 
+### Week 5 - 20.03.2019 - Module 2 - Big data
+- Slides (Powerpoint): [week 5](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-5.pptx)
+- Slides (pdf): [week 4](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-5.pdf)
+- Exercies: [Instructions](./labs/week5/README.md)
+
