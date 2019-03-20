@@ -47,7 +47,7 @@ Solving this problem accurately can be difficult. You are allowed a few simplify
 For this project we will use the data published by the Open Data Platform Swiss Public Transport (<https://opentransportdata.swiss>).
 
 You can find the dataset in the following two places.
-- On HDFS at the path `/datasets/project/` (you must log on `iccluster045.iccluster.epfl.ch`).
+- On HDFS at the path `/datasets/project/` - you must log on `iccluster042.iccluster.epfl.ch` with your gaspar account.
 - Or you can download it using the following links.
     - <https://os.unil.cloud.switch.ch/swift/v1/CFF/2017-09.tar.lzma>
     - <https://os.unil.cloud.switch.ch/swift/v1/CFF/2017-10.tar.lzma>

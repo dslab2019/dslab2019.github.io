@@ -1,0 +1,14 @@
+slides/**
+slides/DSLab2019_week-12.pptx filter=lfs diff=lfs merge=lfs -text
+slides/DSLab2019_week-1.pptx filter=lfs diff=lfs merge=lfs -text
+slides/*.pptx filter=lfs diff=lfs merge=lfs -text
+slides/*.pdf filter=lfs diff=lfs merge=lfs -text
+slides/DSLab2019_week-2.pdf filter=lfs diff=lfs merge=lfs -text
+slides/DSLab2019_week-2.pptx filter=lfs diff=lfs merge=lfs -text
+slides/DSLab2019_week-3.pptx filter=lfs diff=lfs merge=lfs -text
+slides/DSLab2019_week-1.pdf filter=lfs diff=lfs merge=lfs -text
+slides/DSLab2019_week-4.pdf filter=lfs diff=lfs merge=lfs -text
+slides/DSLab2019_week-4.pptx filter=lfs diff=lfs merge=lfs -text
+data/** filter=lfs diff=lfs merge=lfs -text
+data/week5/01012016_to_31122016.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+data/week5/01012017_to_31072017.csv.bz2 filter=lfs diff=lfs merge=lfs -text
