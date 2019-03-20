@@ -32,7 +32,7 @@ As a first exercise, you will explore the content of the cluster's HDFS file sys
 
 1. We have created a directory on HDFS for each of you, can you find yours?
 2. Create a folder __work1__ in your HDFS directory and change the access rights so that only you and group hadoop can read and write into it.
-3. Copy the 2017 _Traffic Count_ data published by the Calderdale Metropolitan Borough Council (UK) to your __work1__ directory. The data is available from (https://data.gov.uk/dataset/0c64970c-756a-46b2-9282-4a62016c7c64/traffic-count/datafile/10709a35-1891-425f-a5b6-0b9800e94af1/preview)[https://data.gov.uk/dataset/0c64970c-756a-46b2-9282-4a62016c7c64/traffic-count/datafile/10709a35-1891-425f-a5b6-0b9800e94af1/preview]. Hints: (1) use the __scp__ or the __wget__ commands to copy the data locally in your home directory, and one of the __hdfs dfs__ commands to copy the local file to your HDFS directory, (2) HDFS does not like spaces in filenames.
+3.  Copy the 2017 _Traffic Count_ data published by the [Calderdale Metropolitan Borough Council (UK)](https://data.gov.uk/dataset/0c64970c-756a-46b2-9282-4a62016c7c64/traffic-count) to your __work1__ directory from. A copy of the data is also available from the [dslab 2019 github repository](https://raw.githubusercontent.com/dslab2019/dslab2019.github.io/master/data/week5/01012017_to_31072017.csv.bz2)
 
 ## Exercise series 2 - Hive
 
