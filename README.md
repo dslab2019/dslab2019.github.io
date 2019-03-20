@@ -39,7 +39,9 @@ Questions and discussions about the course are gathered on mattermost: [https://
 - Homework 1: [Instructions](./labs/week4/README.md)
 
 ### Week 5 - 20.03.2019 - Module 2 - Big data
-- Slides (Powerpoint): [week 5](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-5.pptx)
-- Slides (pdf): [week 5](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-5.pdf)
+- Slides 1 (Powerpoint): [week 5](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_Bootstrapping_your_Digitalization_Journey.pptx)
+- Slides 1 (pdf): [week 5](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_Bootstrapping_your_Digitalization_Journey.pdf)
+- Slides 2 (Powerpoint): [week 5](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-5.pptx)
+- Slides 2 (pdf): [week 5](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-5.pdf)
 - Exercies: [Instructions](./labs/week5/README.md)
 
