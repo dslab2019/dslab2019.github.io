@@ -28,9 +28,9 @@ Questions and discussions about the course are gathered on mattermost: [https://
 ### Week 3 - 06.03.2019 - Module 1 - Collaborating with Git 3/4
 - Slides (Powerpoint): [week 3](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-3.pptx)
 - Slides (pdf): [week 3](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-3.pdf)
-- Solutions to last week's exercices - Set #1: [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-Solution.ipynb) - [view on github](./notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-Solution.ipynb)
-- Solutions to last week's exercices - Set #2: [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-Solution.ipynb) - [view on github](./notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-Solution.ipynb)
-- Exercices: [Instructions](./labs/week3/README.md)
+- Solutions to last week's exercises - Set #1: [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-Solution.ipynb) - [view on github](./notebooks/DSLab_week2_PythonDSLibs-NumPy_Matplotlib-Solution.ipynb)
+- Solutions to last week's exercises - Set #2: [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-Solution.ipynb) - [view on github](./notebooks/DSLab_week2_PythonDSLibs-Pandas_sklearn-Solution.ipynb)
+- Exercises: [Instructions](./labs/week3/README.md)
 
 ### Week 4 - 13.03.2019 - Module 1 - Graded homework 1
 - Slides (Powerpoint): [week 4](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-4.pptx)
@@ -43,10 +43,10 @@ Questions and discussions about the course are gathered on mattermost: [https://
 - Slides 1 (pdf): [week 5](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_Bootstrapping_your_Digitalization_Journey.pdf)
 - Slides 2 (Powerpoint): [week 5](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-5.pptx)
 - Slides 2 (pdf): [week 5](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-5.pdf)
-- Exercies: [Instructions](./labs/week5/README.md)
+- Exercises: [Instructions](./labs/week5/README.md)
 
 ### Week 6 - 27.03.2019 - Module 2 - Big data
 - Slides (Powerpoint): [week 6](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-6.pptx)
 - Slides (pdf): [week 6](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-6.pdf)
-- Solution to last week's exercies: [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week5_Hive_Solution.json) - [view on github](./notebooks/DSLab_week5_Hive_Solution.json)
+- Solution to last week's exercises: [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week5_Hive_Solution.json) - [view on github](./notebooks/DSLab_week5_Hive_Solution.json)
 - Homework 2: [Instructions](./labs/week6/README.md)
