@@ -22,7 +22,7 @@ grading your work.
 In other words, if you push changes past the deadline, midnight of March 27th, these will NOT be
 taken into account.
 
-If you have any question regarding this assignment, please use the "Homework-1" channel on mattermost: https://mattermost-dslab.epfl.ch .
+If you have any question regarding this assignment, please use the "Homework-1" channel on mattermost: <https://mattermost-dslab.epfl.ch>.
 
 We will also broadcast here answers to other students' questions that we may get. So keep an eye on it.
 
