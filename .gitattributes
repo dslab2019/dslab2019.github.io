@@ -16,3 +16,5 @@ slides/DSLab2019_Bootstrapping_your_Digitalization_Journey.pptx filter=lfs diff=
 slides/DSLab2019_Bootstrapping_your_Digitalization_Journey.pdf filter=lfs diff=lfs merge=lfs -text
 slides/DSLab2019_week-5.pdf filter=lfs diff=lfs merge=lfs -text
 slides/DSLab2019_week-5.pptx filter=lfs diff=lfs merge=lfs -text
+slides/DSLab2019_week-6.pdf filter=lfs diff=lfs merge=lfs -text
+slides/DSLab2019_week-6.pptx filter=lfs diff=lfs merge=lfs -text
