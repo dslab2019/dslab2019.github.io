@@ -47,8 +47,8 @@ Solving this problem accurately can be difficult. You are allowed a few simplify
 For this project we will use the data published by the Open Data Platform Swiss Public Transport (<https://opentransportdata.swiss>).
 
 You can find the dataset in the following two places.
-- On HDFS at the path `/datasets/project/` - you must log on `iccluster042.iccluster.epfl.ch` with your gaspar account.
-- Or you can download it using the following links.
+- On HDFS at the path `/datasets/sbb/` - you must log on `iccluster042.iccluster.epfl.ch` with your gaspar account. You will find there the data from 13.09.2017 to 31.01.2019.
+- Or you can download a subset of it using the following links.
     - <https://os.unil.cloud.switch.ch/swift/v1/CFF/2017-09.tar.lzma>
     - <https://os.unil.cloud.switch.ch/swift/v1/CFF/2017-10.tar.lzma>
     - <https://os.unil.cloud.switch.ch/swift/v1/CFF/2017-11.tar.lzma>
@@ -59,11 +59,11 @@ You can find the dataset in the following two places.
     - <https://os.unil.cloud.switch.ch/swift/v1/CFF/2018-04.tar.lzma>
     - <https://os.unil.cloud.switch.ch/swift/v1/CFF/metadata.tar.gz>
 
-The folder contains the actual data [istdaten](<https://opentransportdata.swiss/en/dataset/istdaten>) and the station list data [BFKOORD_GEO](https://opentransportdata.swiss/de/cookbook/hafas-rohdaten-format-hrdf/#Abgrenzung).
+The folder contains the actual data [istdaten](<https://opentransportdata.swiss/en/dataset/istdaten>) and the station list data [BFKOORD_GEO](https://opentransportdata.swiss/en/cookbook/hafas-rohdaten-format-hrdf/#Abgrenzung).
 
 Format: the dataset is presented a collection of textfiles with fields separated by ';' (semi-colon). There is one file per day.
 
-Unfortunately, the full description from opentransportdata.swiss is only provided in German. You can use an automated translator (we recommend [DeepL](<https://www.deepl.com>)) to get more information, but here are the relevant column descriptions:
+Unfortunately, the full description from opentransportdata.swiss is only provided in German. You can use an automated translator ([DeepL](<https://www.deepl.com>) seems to provide a better translation at the time of writing) to get more information, but here are the relevant column descriptions:
 
 - `BETRIEBSTAG`: date of the trip
 - `FAHRT_BEZEICHNER`: identifies the trip
