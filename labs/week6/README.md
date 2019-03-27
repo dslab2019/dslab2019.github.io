@@ -4,7 +4,7 @@ Go to <https://git-dslab.epfl.ch/dslab2019/homework2> and click on 'Fork'.
 Be sure to select your group.
 
 Open the notebook to find all the questions for this assignment.
-There are 2 sections totalling to 60 points.
+There are 2 sections totalling to 60 points, plus 5 points bonus.
 
 Commit and push regularly your changes to gitlab.
 The content of the master branch of your repository at the time of the deadline will be used for
