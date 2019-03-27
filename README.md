@@ -48,5 +48,5 @@ Questions and discussions about the course are gathered on mattermost: [https://
 ### Week 6 - 27.03.2019 - Module 2 - Big data
 - Slides (Powerpoint): [week 6](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-6.pptx)
 - Slides (pdf): [week 6](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-6.pdf)
-- Solution to last week's exercises: [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week5_Hive_Solution.json) - [view on github](./notebooks/DSLab_week5_Hive_Solution.json)
+- Solution to last week's exercises: [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week5_Hive_Solution.json)
 - Homework 2: [Instructions](./labs/week6/README.md)
