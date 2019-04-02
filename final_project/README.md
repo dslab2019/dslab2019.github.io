@@ -59,7 +59,7 @@ You can find the dataset in the following two places.
     - <https://os.unil.cloud.switch.ch/swift/v1/CFF/2018-04.tar.lzma>
     - <https://os.unil.cloud.switch.ch/swift/v1/CFF/metadata.tar.gz>
 
-The folder contains the actual data [istdaten](<https://opentransportdata.swiss/en/dataset/istdaten>) and the station list data [BFKOORD_GEO](https://opentransportdata.swiss/en/cookbook/hafas-rohdaten-format-hrdf/#Abgrenzung).
+The folder contains the actual data [istdaten](<https://opentransportdata.swiss/en/dataset/istdaten>) and the station list data [BFKOORD_GEO](https://opentransportdata.swiss/en/cookbook/hafas-rohdaten-format-hrdf/#Abgrenzung), which you can also get [here](./BFKOORD_GEO)
 
 Format: the dataset is presented a collection of textfiles with fields separated by ';' (semi-colon). There is one file per day.
 
