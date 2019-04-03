@@ -5,4 +5,4 @@
 This week we will learn how to scale up data analysis tasks using [Apache
 Spark](http://spark.apache.org).
 
-Please head to the gitlab repository to get started: <https://git-dslab.epfl.ch/dslab2019/week7-intro-to-spark>
+Please head to the gitlab repository to get started: <https://git-dslab.epfl.ch/dslab2019/week7-intro-to-spark-2019>
