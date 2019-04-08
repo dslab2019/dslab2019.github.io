@@ -265,7 +265,7 @@ rdd3 = rdd2.map()
 
 Head to the gitlab repo for this week:
 
-https://git-dslab.epfl.ch/dslab2019/week7-intro-to-spark
+https://git-dslab.epfl.ch/dslab2019/week7-intro-to-spark-2019
 
 Follow the instructions in the `README.md` to get set up.
 
