@@ -53,6 +53,13 @@ Questions and discussions about the course are gathered on mattermost: [https://
 - Homework 2: [Instructions](./labs/week6/README.md)
 
 ### Week 7 - 03.04.2019 - Module 3 - Spark
+
 - Slides (Web): [week 7](https://dslab2019.github.io/slides/DSLab_week7)
 - Slides (pdf): [week 7](https://dslab2019.github.io/slides/DSLab_week7/?print-pdf)
 - Exercises: [Instructions](./labs/week7/README.md)
+
+### Week 8 - 10.04.2019 - Module 3 - Spark
+
+- Slides (Web): [week 7](https://dslab2019.github.io/slides/DSLab_week8)
+- Slides (pdf): [week 7](https://dslab2019.github.io/slides/DSLab_week8/?print-pdf)
+- Exercises: [Instructions](./labs/week8/README.md)
