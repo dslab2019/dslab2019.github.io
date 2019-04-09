@@ -1,3 +1,4 @@
+
 # DSLab Week 8
 
 ## Week 2/3: Spark DataFrames
@@ -20,6 +21,8 @@ Some key points:
 --
 
 ## [DataFrame demo](./dataframe_demo.slides.html)
+
+### [Download the notebook](./dataframe_demo.ipynb)
 
 --
 
