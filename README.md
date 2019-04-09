@@ -60,6 +60,6 @@ Questions and discussions about the course are gathered on mattermost: [https://
 
 ### Week 8 - 10.04.2019 - Module 3 - Spark
 
-- Slides (Web): [week 7](https://dslab2019.github.io/slides/DSLab_week8)
-- Slides (pdf): [week 7](https://dslab2019.github.io/slides/DSLab_week8/?print-pdf)
+- Slides (Web): [week 8](https://dslab2019.github.io/slides/DSLab_week8)
+- Slides (pdf): [week 8](https://dslab2019.github.io/slides/DSLab_week8/?print-pdf)
 - Exercises: [Instructions](./labs/week8/README.md)
