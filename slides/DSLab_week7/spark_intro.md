@@ -1,4 +1,5 @@
 # DSLab Week 7
+
 ## Getting Started with...
 
 <p style="text-align: center;">
@@ -10,6 +11,7 @@
 In this 3-week module, we will investigate how to scale up analysis to a cluster of machines using
 the [Apache Spark](http://spark.apache.org) distributed computing framework.
 
+--
 
 ## Who am I?
 
@@ -18,7 +20,7 @@ the [Apache Spark](http://spark.apache.org) distributed computing framework.
 * I currently work on the SDSC Platform team at ETH Zürich
 * used Spark extensively in previous job for various academic projects
 
-
+---
 
 ## What is Spark?
 
@@ -35,12 +37,14 @@ where is it being used?
 * classic Big Data use cases e.g. text analysis
 * some academia, notably neuroscience
 
+--
 
 ### Project stats
 
 <img src="figs/spark-repo.png">
 <img src="figs/spark_commits.png">
 
+--
 
 ## Why use Spark?
 
@@ -54,6 +58,7 @@ Other options:
 
 Sometimes being clever delivers the best results...
 
+--
 
 ## Flexibility of Spark runtime
 
@@ -65,6 +70,7 @@ The spark runtime can be deployed on:
 * a dedicated Hadoop-aware scheduler (YARN/Mesos )
 * "cloud", e.g. Amazon EC2
 
+--
 
 ## Incremental and interactive development
 
@@ -77,10 +83,11 @@ In addition, you can run applications on any of these platforms either
 
 <p style="text-align: center;"><em><strong>No code changes to go between these methods of deployment!</em></strong></p>
 
-
+---
 
 ## Spark Architecture Overview
 
+--
 
 ### The things that make distributed computing hard:
 
@@ -92,21 +99,26 @@ This is what a "framework" like Spark does for us
 
 At its most basic, it consists of a **driver** and **workers**
 
+--
 
 <!-- .slide: data-background="figs/spark_architecture.svg" data-background-size="contain" -->
 
+--
 
 <!-- .slide: data-background="figs/spark_architecture.svg" data-background-size="contain" data-state="background-blur-animation"-->
-**Driver**
+
+### Driver
 
 * coordinates the work to be done
 * keeps track of tasks
 * collects metrics about the tasks (disk IO, memory, etc.)
 * communicates with the workers (and the user)
 
+--
 
 <!-- .slide: data-background="figs/spark_architecture.svg" data-background-size="contain" data-state="background-blur-animation"-->
-**Workers**
+
+### Workers
 
 * receive tasks to be done from the driver
 * store data in memory or on disk
@@ -115,9 +127,10 @@ At its most basic, it consists of a **driver** and **workers**
 
 The user's access point to this Spark universe is the **Spark Context** which provides an interface to generate RDDs.
 
-
+--
 
 ## Basic Data Abstraction:
+
 ## the RDD (Resilient Distributed Dataset)
 
 <p style="text-align: center;">An RDD is the primary interface and cornerstone of every Spark application.</p>
@@ -131,9 +144,11 @@ The user's access point to this Spark universe is the **Spark Context** which pr
 <p style="text-align: center;"><strong>As a Spark user, you write applications that feed data into RDDs and subsequently transform them into something useful</strong></p>
 <!-- .element: class="fragment" data-fragment-index="2" -->
 
+--
 
 <!-- .slide: data-background="figs/parallelize.svg" data-background-size="contain" -->
 
+--
 
 ## RDD transformations and actions
 
@@ -145,6 +160,7 @@ DAG.
 
 Calculations are triggered by *actions*.
 
+--
 
 ## Transformations
 
@@ -159,20 +175,26 @@ Calculations are triggered by *actions*.
 
 Transformations are evaluated "lazily" - only executed once an *action* is performed.
 
+--
 
 <!-- .slide: data-background="figs/map_example.svg" data-background-size="contain"-->
 
+--
 
 <!-- .slide: data-background="figs/flatMap_example.svg" data-background-size="contain"-->
 
+--
 
 <!-- .slide: data-background="figs/filter_example.svg" data-background-size="contain"-->
 
+--
 
 <!-- .slide: data-background="figs/reduceByKey_example.svg" data-background-size="contain"-->
 
+--
 
 ## Actions
+
 * `collect`: pulls all elements of the RDD to the driver (often a bad idea!!)
 * `collectAsMap`: like `collect` but returns a dictionary for key/value RDDs
 * `countByKey`/`countByValue`
@@ -184,6 +206,7 @@ Transformations are evaluated "lazily" - only executed once an *action* is perfo
 with most of these!</p></h4>
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
+--
 
 ## Lineage
 
@@ -194,8 +217,10 @@ with most of these!</p></h4>
 * this allows one to build up a complex "pipeline" and easily tweak/rerun it
   in its entirety
 
+---
 
 ### Initializing Spark
+
 ```python
 import pyspark
 
@@ -206,6 +231,7 @@ This step launches the Spark runtime and connects the application to the
 master. This creates a driver which can now be used to dispatch work to the
 resources allocated for the application.
 
+--
 
 ### Parallelize
 ```python
@@ -215,6 +241,7 @@ rdd = sc.parallelize(data)
     <img src="figs/parallelize.svg" width=700>
 </p>
 
+--
 
 ### map
 ```python
@@ -228,6 +255,7 @@ rdd_squared = rdd.map(square)
     <img src="figs/map_lineage.svg" height=500px>
 </p>
 
+--
 
 ## Caching
 
@@ -236,6 +264,7 @@ rdd_squared = rdd.map(square)
 * unless! an intermediate RDD is cached -- then it is only calculated once and reused from memory each subsequent time
 * this allows for good performance when iterating on an RDD is required
 
+--
 
 ```python
 rdd = sc.parallelize(data)
@@ -244,6 +273,7 @@ rdd2.cache()
 ```
 <img src="figs/cache.svg" height=500px>
 
+--
 
 ```python
 rdd = sc.parallelize(data)
@@ -253,6 +283,7 @@ rdd3 = rdd2.map()
 ```
 <img src="figs/cache_map.svg" height=500px>
 
+--
 
 ## Partitioning
 
@@ -260,6 +291,7 @@ rdd3 = rdd2.map()
 * each partition in a transformation results in a task
 * there may be many more tasks than cores in the system, which allows for good utilization by fine-graining the overall load.
 
+---
 
 #### Time for the basic Spark tutorial!
 
@@ -269,6 +301,7 @@ https://git-dslab.epfl.ch/dslab2019/week7-intro-to-spark-2019
 
 Follow the instructions in the `README.md` to get set up.
 
+--
 
 ## Lab notebooks
 
@@ -279,7 +312,7 @@ this order:
 2. `spark-intro.ipynb`
 3. `gutenberg.ipynb`
 
-
+---
 
 ## Analyzing the Gutenberg corpus
 
@@ -289,6 +322,7 @@ English)
 
 We will use it to do some basic text analysis using key/value PairRDDs in Spark.
 
+--
 
 ## The data
 
@@ -301,6 +335,7 @@ hdfs:///datasets/gutenberg/gutenberg_rdd
 
 This RDD will form the basis of the work in the notebook.
 
+--
 
 ## The goal
 
