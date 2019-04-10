@@ -29,7 +29,7 @@ Some key points:
 ## Useful Links
 
 * Lab repository: https://git-dslab.epfl.ch/dslab2019/week8-spark-dataframes
-* General Spark docs: http://spark.apache.org/docs
+* General Spark docs: http://spark.apache.org/docs/latest
 * Spark DataFrame intro (good for a lookup of basic syntax): http://spark.apache.org/docs/latest/sql-programming-guide.html
 * Spark DataFrame Reference: http://spark.apache.org/docs/latest/api/python/pyspark.sql.html
 * Spark ML Reference: http://spark.apache.org/docs/latest/api/python/pyspark.ml#pyspark-ml-package
