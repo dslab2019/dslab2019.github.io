@@ -62,13 +62,15 @@ Questions and discussions about the course are gathered on mattermost: [https://
 
 - Slides (Web): [week 7](https://dslab2019.github.io/slides/DSLab_week7)
 - Slides (pdf): [week 7](https://dslab2019.github.io/slides/DSLab_week7/?print-pdf)
-- Exercises: [Instructions](./labs/week7/README.md) [Solutions](./notebooks/DSLab_week7_gutenberg-solutions.ipynb)
+- Exercises: [Instructions](./labs/week7/README.md) 
+- [Exercise solutions](./notebooks/DSLab_week7_gutenberg-solutions.ipynb)
 
 ### Week 8 - 10.04.2019 - Module 3 - Spark
 
 - Slides (Web): [week 8](https://dslab2019.github.io/slides/DSLab_week8)
 - Slides (pdf): [week 8](https://dslab2019.github.io/slides/DSLab_week8/?print-pdf)
-- Exercises: [Instructions](./labs/week8/README.md) [Solutions](./notebooks/DSLab_week8_language-classification-solutions.ipynb)
+- Exercises: [Instructions](./labs/week8/README.md) 
+- [Exercise solutions](./notebooks/DSLab_week8_language-classification-solutions.ipynb)
 
 ### Week 9 - 17.04.2019 - Module 3 - Spark
 
