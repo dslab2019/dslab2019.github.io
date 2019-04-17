@@ -75,3 +75,4 @@ Questions and discussions about the course are gathered on mattermost: [https://
 ### Week 9 - 17.04.2019 - Module 3 - Spark
 
 - Homework 3: [Instructions](./labs/week9/README.md)
+- [Solutions homework 2 (gitlab)](https://git-dslab.epfl.ch/dslab2019/homework2/raw/master/Assignment_DataScience_Lab_week6_2019_Solutions.json)
