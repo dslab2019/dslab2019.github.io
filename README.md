@@ -72,4 +72,4 @@ Questions and discussions about the course are gathered on mattermost: [https://
 
 ### Week 9 - 17.04.2019 - Module 3 - Spark
 
-- Exercises: [Instructions](./labs/week9/README.md)
+- Homework 3: [Instructions](./labs/week9/README.md)
