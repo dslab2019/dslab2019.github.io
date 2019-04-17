@@ -28,7 +28,7 @@ Some key points:
 
 ## PySpark architecture overview
 
-<img src="figs/pyspark_architecture.png" height=500px>
+<img src="figs/pyspark_architecture.png" height=400px>
 
 
 * Spark workers pull data from sources into the JVM
