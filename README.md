@@ -50,13 +50,14 @@ Questions and discussions about the course are gathered on mattermost: [https://
 - Slides 2 (pdf): [week 5](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-5.pdf)
 - Exercises: [Instructions](./labs/week5/README.md)
 
-### Week 6 - 27.03.2019 - Module 2 - Big data\
+### Week 6 - 27.03.2019 - Module 2 - Big data
 
 - Reminder: homeworks#1 are due today as per week 4 instructions.
 - Slides (Powerpoint): [week 6](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-6.pptx)
 - Slides (pdf): [week 6](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-6.pdf)
 - Solution to last week's exercises: [download](https://raw.githubusercontent.com/dslab2019/dslab2019.github.io/master/notebooks/DSLab_week5_Hive_Solution.json)
 - Homework 2: [Instructions](./labs/week6/README.md)
+- Solutions homework 1: [download from gitlab](https://git-dslab.epfl.ch/dslab2019/homework1/raw/master/Assignment_DataScience_Lab_week4_2019-Solutions.ipynb) - [view on gitlab](https://git-dslab.epfl.ch/dslab2019/homework1/blob/master/Assignment_DataScience_Lab_week4_2019-Solutions.ipynb)
 
 ### Week 7 - 03.04.2019 - Module 3 - Spark
 
@@ -75,4 +76,4 @@ Questions and discussions about the course are gathered on mattermost: [https://
 ### Week 9 - 17.04.2019 - Module 3 - Spark
 
 - Homework 3: [Instructions](./labs/week9/README.md)
-- [Solutions homework 2 (gitlab)](https://git-dslab.epfl.ch/dslab2019/homework2/raw/master/Assignment_DataScience_Lab_week6_2019_Solutions.json)
+- Solutions homework 2: [download from gitlab](https://git-dslab.epfl.ch/dslab2019/homework2/raw/master/Assignment_DataScience_Lab_week6_2019_Solutions.json)
