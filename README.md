@@ -77,3 +77,10 @@ Questions and discussions about the course are gathered on mattermost: [https://
 
 - Homework 3: [Instructions](./labs/week9/README.md)
 - Solutions homework 2: [download from gitlab](https://git-dslab.epfl.ch/dslab2019/homework2/raw/master/Assignment_DataScience_Lab_week6_2019_Solutions.json)
+
+### Week 10 - 01.05.2019 - Module 4 - Data streams with Kafka and Spark
+
+- Slides (Powerpoint): [week 10](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-10.pptx)
+- Slides (pdf): [week 10](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-10.pdf)
+- Exercises: [Instructions](./labs/week10/README.md)
+
