@@ -86,5 +86,8 @@ Questions and discussions about the course are gathered on mattermost: [https://
 
 ### Week 11 - 08.05.2019 - Module 4 - Data streams with Kafka and Spark
 
+- Slides (Powerpoint): [week 11](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-11.pptx)
+- Slides (pdf): [week 11](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-11.pdf)
+- Homework 4: [Instructions](./labs/week11/README.md)
 - Solutions to last week's exercises - [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week10_stream-processing-solutions.ipynb) - [view on github](./notebooks/DSLab_week10_stream-processing-solutions.ipynb)
 
