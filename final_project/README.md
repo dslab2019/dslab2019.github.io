@@ -4,7 +4,7 @@ The final assignment is to be done in **groups of 4 or, preferably, 5**.
 
 ## Important dates
 
-The assignment (clear, well-annotated notebook; report-like) is due on **June 14th, 23:59**.
+The assignment (clear, well-annotated notebook; report-like) is due on **June 19th, 23:59**.
 
 The oral defense will take place either before the end of the semester or after the end of the semester (before or during exam period).
 

@@ -91,3 +91,8 @@ Questions and discussions about the course are gathered on mattermost: [https://
 - Homework 4: [Instructions](./labs/week11/README.md)
 - Solutions to last week's exercises - [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week10_stream-processing-solutions.ipynb) - [view on github](./notebooks/DSLab_week10_stream-processing-solutions.ipynb)
 
+### Week 12 - 15.05.2019 - Module 5 - Final assignment
+
+- Slides (Powerpoint): [week 12](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-12.pptx)
+- Slides (Powerpoint): [week 12](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-12.pdf)
+- Final assignment: [description](/final_project/README.md)
