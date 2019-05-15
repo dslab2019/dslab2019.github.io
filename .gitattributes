@@ -22,3 +22,4 @@ slides/DSLab2019_week-10.pptx filter=lfs diff=lfs merge=lfs -text
 slides/DSLab2019_week-10.pdf filter=lfs diff=lfs merge=lfs -text
 slides/DSLab2019_week-11.pdf filter=lfs diff=lfs merge=lfs -text
 slides/DSLab2019_week-11.pptx filter=lfs diff=lfs merge=lfs -text
+slides/DSLab2019_week-12.pdf filter=lfs diff=lfs merge=lfs -text
