@@ -4,9 +4,9 @@ The final assignment is to be done in **groups of 4 or, preferably, 5**.
 
 ## Important dates
 
-The assignment (clear, well-annotated notebook; report-like) is due on **June 19th, 23:59**.
+The assignment (clear, well-annotated notebook; report-like), **with a short, 7max, video of your presentation** is due on **June 18th, 23:59** (note the change of date).
 
-The oral defense will take place either before the end of the semester or after the end of the semester (before or during exam period).
+Instead of oral defense as initially planned, we will organize short Q&A discussions of 10mins per group. The Q&A will be scheduled on **June 20th, from 10am to noon, and from 2pm to 4pm**.
 
 ## Problem Motivation
 
