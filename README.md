@@ -96,3 +96,7 @@ Questions and discussions about the course are gathered on mattermost: [https://
 - Slides (Powerpoint): [week 12](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-12.pptx)
 - Slides (Powerpoint): [week 12](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-12.pdf)
 - Final assignment: [description](/final_project/README.md)
+
+### Week 13 - 22.05.2019 - Module 5 - Final assignment
+
+### Week 14 - 29.05.2019 - Module 5 - Final assignment
