@@ -90,6 +90,8 @@ Questions and discussions about the course are gathered on mattermost: [https://
 - Slides (pdf): [week 11](https://github.com/dslab2019/dslab2019.github.io/raw/master/slides/DSLab2019_week-11.pdf)
 - Homework 4: [Instructions](./labs/week11/README.md)
 - Solutions to last week's exercises - [download](https://github.com/dslab2019/dslab2019.github.io/raw/master/notebooks/DSLab_week10_stream-processing-solutions.ipynb) - [view on github](./notebooks/DSLab_week10_stream-processing-solutions.ipynb)
+- Solutions homework 3: [download from gitlab](https://git-dslab.epfl.ch/dslab2019/homework3/raw/master/twitter-hashtags-Solutions.ipynb) - [view on gitlab](https://git-dslab.epfl.ch/dslab2019/homework3/blob/master/twitter-hashtags-Solutions.ipynb)
+
 
 ### Week 12 - 15.05.2019 - Module 5 - Final assignment
 
