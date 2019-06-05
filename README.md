@@ -98,6 +98,6 @@ Questions and discussions about the course are gathered on mattermost: [https://
 - Final assignment: [description](/final_project/README.md)
 
 ### Week 13 - 22.05.2019 - Module 5 - Final assignment
-- Solutions homework 4: [download from gitlab](https://git-dslab.epfl.ch/dslab2019/homework4/raw/master/Homework4-Solutions.ipynb) [view on gitlab](https://git-dslab.epfl.ch/dslab2019/homework4/blob/master/Homework4-Solutions.ipynb)
+- Solutions homework 4: [download from gitlab](https://git-dslab.epfl.ch/dslab2019/homework4/raw/master/Homework4-Solutions.ipynb) - [view on gitlab](https://git-dslab.epfl.ch/dslab2019/homework4/blob/master/Homework4-Solutions.ipynb)
 
 ### Week 14 - 29.05.2019 - Module 5 - Final assignment
